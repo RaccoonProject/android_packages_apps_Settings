@@ -13091,6 +13091,24 @@
     <string name="my_device_info_account_preference_summary">%d accounts</string>
     <!-- Title for preference showing the name of the device. [CHAR LIMIT=60]-->
     <string name="my_device_info_device_name_preference_title">Device name</string>
+    <!-- Title shown centered on the About phone wallpaper banner. [CHAR LIMIT=30]-->
+    <string name="my_device_info_banner_title">Raccoon</string>
+    <!-- Title for the About phone storage usage card. [CHAR LIMIT=30]-->
+    <string name="my_device_info_storage_title">Storage</string>
+    <!-- Storage usage value: used GB over total GB. [CHAR LIMIT=30]-->
+    <string name="my_device_info_storage_used">%1$d/%2$d GB Used</string>
+    <!-- About phone specification labels. [CHAR LIMIT=30]-->
+    <string name="my_device_info_spec_processor">Processor</string>
+    <string name="my_device_info_spec_ram">RAM</string>
+    <string name="my_device_info_spec_display">Display</string>
+    <string name="my_device_info_spec_battery">Battery</string>
+    <!-- RAM size in GB. [CHAR LIMIT=15]-->
+    <string name="my_device_info_ram_size">%d GB</string>
+    <!-- Title for the preference that expands the hidden device info sections. -->
+    <string name="my_device_info_others_title">Others</string>
+    <!-- Summary shown when the extra sections are hidden / shown. -->
+    <string name="my_device_info_others_summary_show">Tap to show more info</string>
+    <string name="my_device_info_others_summary_hide">Tap to hide</string>
 
     <!-- Title for preference category showing the name of basic info. [CHAR LIMIT=60]-->
     <string name="my_device_info_basic_info_category_title">Basic info</string>

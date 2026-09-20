@@ -243,6 +243,9 @@
     <dimen name="admin_details_dialog_title_bottom_padding">16dp</dimen>
     <dimen name="admin_details_dialog_icon_size">32dp</dimen>
 
+    <!-- About phone device name edit dialog. -->
+    <dimen name="about_phone_device_name_dialog_padding">24dp</dimen>
+
     <!-- Display, Screen zoom -->
     <dimen name="conversation_message_list_padding">10dp</dimen>
     <dimen name="conversation_message_contact_icon_text_size">32sp</dimen>
